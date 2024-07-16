@@ -33,7 +33,7 @@ class _SmartAssistantPageState extends State<SmartAssistantPage> {
   Future<void> _fetchAIResponse(String query) async {
     final apiUrl = 'https://api-inference.huggingface.co/models/t5-base';
     final headers = {
-      'Authorization': 'Bearer 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',
+      'Authorization': 'Bearer YOUR_API_KEY_HERE',
       'Content-Type': 'application/json',
     };
     final body = jsonEncode({'inputs': query});
