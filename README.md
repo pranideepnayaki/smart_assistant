@@ -15,8 +15,8 @@ The Smart Assistant Flutter App is a user-friendly application designed to provi
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/pranideepnayaki/smart-assistant-flutter-app.git
-   cd smart-assistant-flutter-app
+   git clone https://github.com/pranideepnayaki/smart_assistant.git
+   cd smart_assistant
    ```
 
 2. **Install dependencies**:
